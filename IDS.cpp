@@ -83,3 +83,35 @@ int main() {
 
     return 0;
 }
+
+
+/*
+
+Input
+
+5
+
+0 1
+0 2
+1 3
+1 4
+2 5
+
+0
+5
+3 
+
+
+
+
+
+Output
+Searching with depth limit: 0
+Searching with depth limit: 1
+Searching with depth limit: 2
+Goal is found at depth: 2
+Goal is found within maximum depth.
+
+
+*/
+
